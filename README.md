@@ -1,0 +1,3 @@
+# static
+
+npm run start
